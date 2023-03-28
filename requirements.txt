@@ -1,4 +1,4 @@
-﻿absl-py==1.4.0
+absl-py==1.4.0
 astunparse==1.6.3
 boto3==1.26.99
 botocore==1.29.99
@@ -40,6 +40,13 @@ rsa==4.9
 s3transfer==0.6.0
 scipy==1.7.3
 six==1.16.0
+tensorboard==2.11.2
+tensorboard-data-server==0.7.0
+tensorboard-plugin-wit==1.8.1
+tensorflow==2.11.0
+tensorflow-estimator==2.12.0
+tensorflow-intel==0.0.1
+tensorflow-io-gcs-filesystem==0.31.0
 termcolor==2.2.0
 typing_extensions==4.5.0
 urllib3==1.26.15
